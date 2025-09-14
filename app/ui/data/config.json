@@ -1,0 +1,17 @@
+{
+  "teams": [
+    {"id": "T1", "name": "La Mia Squadra"},
+    {"id": "T2", "name": "acquashrims"},
+    {"id": "T3", "name": "davide"},
+    {"id": "T4", "name": "costa d'amalfi"},
+    {"id": "T5", "name": "terroni"},
+    {"id": "T6", "name": "enigmi"},
+    {"id": "T7", "name": "mat"},
+    {"id": "T8", "name": "gianmarco"},
+    {"id": "T9", "name": "miale"},
+    {"id": "T10", "name": "busta"}
+  ],
+  "budget_per_team": 1000,
+  "slots_per_role": {"P": 3, "D": 8, "C": 8, "A": 6},
+  "our_team_id": "T1"
+}
